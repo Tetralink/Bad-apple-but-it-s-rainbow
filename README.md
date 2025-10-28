@@ -1,6 +1,8 @@
 # Bad Apple but it's Rainbow
 A program that transforms a video into a series of monochrome frames, adds a rainbow effect, and renders the final video.
 
+(example video : https://youtu.be/yFE7I6mDAC8)
+
 ![alt text](https://raw.githubusercontent.com/Tetralink/Bad-apple-but-it-s-rainbow/refs/heads/main/BadAppleButItsRainbow.jpg)
 
 ### How to use:
